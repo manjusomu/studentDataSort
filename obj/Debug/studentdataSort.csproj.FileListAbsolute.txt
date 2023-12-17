@@ -1,0 +1,7 @@
+C:\project3 C#\studentdataSort\studentdataSort\bin\Debug\studentdataSort.exe.config
+C:\project3 C#\studentdataSort\studentdataSort\bin\Debug\studentdataSort.exe
+C:\project3 C#\studentdataSort\studentdataSort\bin\Debug\studentdataSort.pdb
+C:\project3 C#\studentdataSort\studentdataSort\obj\Debug\studentdataSort.csproj.AssemblyReference.cache
+C:\project3 C#\studentdataSort\studentdataSort\obj\Debug\studentdataSort.csproj.CoreCompileInputs.cache
+C:\project3 C#\studentdataSort\studentdataSort\obj\Debug\studentdataSort.exe
+C:\project3 C#\studentdataSort\studentdataSort\obj\Debug\studentdataSort.pdb
